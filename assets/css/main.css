@@ -144,7 +144,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #212931;
+		color: #1a6c83;
 	}
 
 	body, input, select, textarea {
@@ -292,13 +292,13 @@ input, select, textarea {
 	}
 
 	a {
-		color: #212931;
+		color: #60303e;
 		border-bottom-color: rgba(33, 41, 49, 0.5);
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #18bfef !important;
+			color: #cb7330 !important;
 		}
 
 	strong, b {
@@ -4380,7 +4380,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		}
+		}-->
 
 	#copyright {
 		color: #ffffff;
